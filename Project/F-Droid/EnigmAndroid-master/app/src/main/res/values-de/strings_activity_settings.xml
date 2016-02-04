@@ -1,0 +1,42 @@
+<resources>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="pref_header_simulation">Simulation</string>
+    <string name="pref_title_machine_type">Enigma Modell</string>
+    <string name="pref_description_machine_type">Welches Modell soll simuliert werden?</string>
+    <string-array name="pref_list_machine_type">
+        <item>I (Heer, Luftwaffe)</item>
+        <item>M3 (Heer, Marine)</item>
+        <item>M4 (\"Shark\", Marine)</item>
+        <item>G31/A865 (Abwehr)</item>
+        <item>G312 (Abwehr)</item>
+        <item>G260 (Abwehr)</item>
+        <item>D (Kommerziell)</item>
+        <item>K</item>
+        <item>Swiss-K (Schweiz)</item>
+        <item>Swiss-K (Schweiz, Luftwaffe)</item>
+        <item>R (\"Rocket\", Reichsbahn)</item>
+        <item>T (\"Tirpitz\", Japan)</item>
+    </string-array>
+
+    <string name="pref_header_input_preparation">Eingabe Vorbereitung</string>
+    <string name="pref_title_numeric_spelling_language">Zahlenbuchstabiersprache</string>
+    <string name="pref_description_numeric_spelling_language">Sprache in der Zahlen buchstabiert werden sollen.</string>
+    <string-array name="pref_list_numeric_spelling_language">
+        <item>Deutsch</item>
+        <item>Englisch</item>
+        <item>Französisch</item>
+        <item>Spanisch</item>
+        <item>Italienisch</item>
+        <item>Keine Ersetzung</item>
+    </string-array>
+
+    <string name="pref_header_appearance">Erscheinungsbild</string>
+    <string name="pref_title_message_formatting">Nachrichtenformatierung</string>
+    <string name="pref_description_message_formatting">Soll die Nachricht in Blöcke unterteilt werden?</string>
+    <string-array name="pref_list_message_formatting">
+        <item>Keine Unterteilung</item>
+        <item>Viererblöcke</item>
+        <item>Fünferblöcke</item>
+        <item>Sechserblöcke</item>
+    </string-array>
+</resources>

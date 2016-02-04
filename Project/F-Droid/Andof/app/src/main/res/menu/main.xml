@@ -1,0 +1,21 @@
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/currentlens"
+            android:showAsAction="ifRoom"
+            android:icon="@drawable/lens"
+            android:title="@string/currentlens" />
+ 
+        <item android:id="@+id/closeup"
+            android:showAsAction="ifRoom"
+            android:icon="@drawable/closeup_off"
+            android:title="@string/closeup" />
+ 
+        <item android:id="@+id/mycamera"
+            android:title="@string/mycamera" />
+        <item android:id="@+id/mylenses"
+            android:title="@string/mylenses" />
+        <item android:id="@+id/resetsettings"
+            android:title="@string/resetsettings" />
+        <item android:id="@+id/help"
+            android:title="@string/help" />
+    </menu>

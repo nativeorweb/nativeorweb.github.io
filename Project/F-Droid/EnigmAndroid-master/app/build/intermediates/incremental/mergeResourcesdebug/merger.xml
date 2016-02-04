@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="23.0.1"><source path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\res"/></dataSet><dataSet config="main"><source path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res"><file name="button_berry" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable\button_berry.xml" qualifiers="" type="drawable"/><file name="button_black" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable\button_black.xml" qualifiers="" type="drawable"/><file name="button_blue" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable\button_blue.xml" qualifiers="" type="drawable"/><file name="button_brown" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable\button_brown.xml" qualifiers="" type="drawable"/><file name="button_cyan" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable\button_cyan.xml" qualifiers="" type="drawable"/><file name="button_elder" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable\button_elder.xml" qualifiers="" type="drawable"/><file name="button_green" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable\button_green.xml" qualifiers="" type="drawable"/><file name="button_grey" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable\button_grey.xml" qualifiers="" type="drawable"/><file name="button_olive" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable\button_olive.xml" qualifiers="" type="drawable"/><file name="button_orange" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable\button_orange.xml" qualifiers="" type="drawable"/><file name="button_pink" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable\button_pink.xml" qualifiers="" type="drawable"/><file name="button_purple" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable\button_purple.xml" qualifiers="" type="drawable"/><file name="button_red" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable\button_red.xml" qualifiers="" type="drawable"/><file name="button_yellow" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable\button_yellow.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi" type="drawable"/><file name="ic_send_white_48dp" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable-hdpi\ic_send_white_48dp.png" qualifiers="hdpi" type="drawable"/><file name="ic_send_white_48dp" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable-ldrtl-hdpi\ic_send_white_48dp.png" qualifiers="ldrtl-hdpi" type="drawable"/><file name="ic_send_white_48dp" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable-ldrtl-mdpi\ic_send_white_48dp.png" qualifiers="ldrtl-mdpi" type="drawable"/><file name="ic_send_white_48dp" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable-ldrtl-xhdpi\ic_send_white_48dp.png" qualifiers="ldrtl-xhdpi" type="drawable"/><file name="ic_send_white_48dp" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable-ldrtl-xxhdpi\ic_send_white_48dp.png" qualifiers="ldrtl-xxhdpi" type="drawable"/><file name="ic_send_white_48dp" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable-ldrtl-xxxhdpi\ic_send_white_48dp.png" qualifiers="ldrtl-xxxhdpi" type="drawable"/><file name="ic_launcher" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi" type="drawable"/><file name="ic_send_white_48dp" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable-mdpi\ic_send_white_48dp.png" qualifiers="mdpi" type="drawable"/><file name="ic_launcher" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi" type="drawable"/><file name="ic_send_white_48dp" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable-xhdpi\ic_send_white_48dp.png" qualifiers="xhdpi" type="drawable"/><file name="ic_launcher" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_send_white_48dp" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable-xxhdpi\ic_send_white_48dp.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_send_white_48dp" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\drawable-xxxhdpi\ic_send_white_48dp.png" qualifiers="xxxhdpi" type="drawable"/><file name="activity_main_d" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\layout\activity_main_d.xml" qualifiers="" type="layout"/><file name="activity_main_g_k_r_t" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\layout\activity_main_g_k_r_t.xml" qualifiers="" type="layout"/><file name="activity_main_i_m3" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\layout\activity_main_i_m3.xml" qualifiers="" type="layout"/><file name="activity_main_m4" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\layout\activity_main_m4.xml" qualifiers="" type="layout"/><file name="dialog_about" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\layout\dialog_about.xml" qualifiers="" type="layout"/><file name="dialog_passphrase" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\layout\dialog_passphrase.xml" qualifiers="" type="layout"/><file name="dialog_plugs" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\layout\dialog_plugs.xml" qualifiers="" type="layout"/><file name="dialog_ringsettings_3" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\layout\dialog_ringsettings_3.xml" qualifiers="" type="layout"/><file name="dialog_ringsettings_4" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\layout\dialog_ringsettings_4.xml" qualifiers="" type="layout"/><file name="activity_main_d" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\layout-land\activity_main_d.xml" qualifiers="land" type="layout"/><file name="activity_main_g_k_r_t" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\layout-land\activity_main_g_k_r_t.xml" qualifiers="land" type="layout"/><file name="activity_main_i_m3" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\layout-land\activity_main_i_m3.xml" qualifiers="land" type="layout"/><file name="activity_main_m4" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\layout-land\activity_main_m4.xml" qualifiers="land" type="layout"/><file name="dialog_plugs" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\layout-land\dialog_plugs.xml" qualifiers="land" type="layout"/><file name="dialog_about" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\layout-v14\dialog_about.xml" qualifiers="v14" type="layout"/><file name="main" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\values\about_dialog_resources.xml" qualifiers=""><string name="section_developer">EnigmAndroid is developed by: \nPaul Schaub</string><string name="section_how_to_use">At first, choose a model of the enigma machine to work with.
+        You can do this in the settings. To encrypt/decrypt a message, you can name it into the input field.
+        Afterwards you can - depending on the chosen model - select a reflector and the some rotors. Also select their initial positions.
+        Then you may set pairs on the plugboard or on the pluggable reflector.
+        Therefore press the respective button and connect the characters you wish to connect by clicking them one after another.
+        If you want to disconnect two plugs, just touch one of the plugs twice.
+        Also you can optionally set custom ring settings. Open the options menu and select \"Ring-Settings\".
+        When you are ready press \"En-/Decrypt!\". To share the configuration of the enigma machine via QR-Code, just open the options
+        menu and select the entry \"Share configuration via QR-Code\". To scan a QR-Code, choose the respective entry.
+        Also you can enter a codeword or the content of a QR-Code by clicking on the entry \"Create configuration from passphrase\" to restore a configuration that way.</string><string name="title_action_about">About</string><string name="button_show_changelog">Changelog</string><string name="title_section_how_to_use">How to use</string><string name="section_disclaimer">THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</string><string name="title_section_developer">Developer</string><string name="title_section_disclaimer">Disclaimer</string><string name="title_about_dialog">About EnigmAndroid</string><string name="description_text">EnigmAndroid is an implementation of a simulation of the Enigma Machine.
+    The Enigma Machine is a cypher machine developed in the 1920s. It was used by the german Wehrmacht to
+    encipher secret messaged during the second world war. There were multiple different Enigma models. For enciphering text, every letter is passed through 3-4 mechanical rotors that rotate with every keystroke.
+    That way the enigma achieves polyalphabetic substitution and the output appears random. The rotors could be chosen from a set of 5. Additionally there was a
+    so called plugboard, where one could switch over pairs of letters.
+    </string></file><file path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\values\strings.xml" qualifiers=""><string name="dialog_passphrase_set">Generate configuration from passphrase %1$s.</string><string-array name="reflectors_a_c" translatable="false">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array><string name="hint_rotor2_position">Position\nRotor 2</string><string name="action_read_passphrase">Create configuration from passphrase</string><string name="hint_reflector_position">Position\nReflector</string><string name="dialog_positive">OK</string><string-array name="rotors_1_8" translatable="false">
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+        <item>IV</item>
+        <item>V</item>
+        <item>VI</item>
+        <item>VII</item>
+        <item>VIII</item>
+    </string-array><string-array name="rotors_beta_gamma" translatable="false">
+        <item>\u03B2</item>
+        <item>\u03B3</item>
+    </string-array><string name="action_send">Send</string><string-array name="rotors_1_3" translatable="false">
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+    </string-array><string-array name="rotors_1_5" translatable="false">
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+        <item>IV</item>
+        <item>V</item>
+    </string-array><string name="button_crypt">En-/Decrypt!</string><string name="hint_thin_rotor_position">Position\nRotor 4</string><string name="dialog_abort">No changes.</string><string name="send_to">Send to…</string><string name="dialog_passphrase_was_coded_state">Restored configuration from coded state.</string><string name="hint_thin_rotor">Rotor 4</string><string name="action_choose_ring_settings">Ring-Settings</string><string name="hint_enigma_reflector_wiring">Wiring Reflector</string><string name="message_reset">Enigma reset.</string><string name="dialog_ring_settings_success">Set Ring-Settings to %1$s.</string><string name="hint_passphrase">Enter passphrase</string><string-array name="reflectors_b_c" translatable="false">
+        <item>B</item>
+        <item>C</item>
+    </string-array><string name="title_reflector_dialog">Reflector Wiring</string><string name="dialog_reflector_set">Rewired Reflector.</string><string name="button_plug_title">%1$s:%2$s</string><string name="dialog_negative">Cancel</string><string name="action_settings">Settings</string><string name="app_name">EnigmAndroid</string><string name="action_send_qr">Share configuration via QR-Code</string><string name="hint_enigma_type_here">Type here</string><string name="hint_rotor1">Rotor 1</string><string name="hint_rotor3_position">Position\nRotor 3</string><string name="hint_rotor3">Rotor 3</string><string name="hint_rotor2">Rotor 2</string><string name="error_no_text_to_send">Can\'t send empty text.</string><string name="action_random">Random configuration</string><string name="hint_enigma_code">EnigmaCode</string><string name="action_reset">Reset</string><string name="message_random">Enigma set to random configuration.</string><string name="action_version">Version</string><string name="title_plugboard_dialog">Plugboard Settings</string><string name="action_read_qr">Read configuration from QR-Code</string><string name="error_no_valid_qr">Error: Not a valid EnigmAndroid QR-Code!</string><string name="title_ring_setting">Ring-Settings</string><string name="dialog_plugboard_set">Set Plugboard configuration.</string><string name="hint_reflector">Reflector</string><string name="hint_rotor1_position">Position\nRotor 1</string></file><file path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\values\strings_activity_settings.xml" qualifiers=""><string-array name="pref_list_numeric_spelling_language">
+        <item>German</item>
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Italian</item>
+        <item>No replacing</item>
+    </string-array><string name="pref_title_numeric_spelling_language">Number spelling language</string><string name="pref_description_machine_type">Which model do you want to simulate?</string><string name="pref_title_message_formatting">Message Formatting</string><string name="title_activity_settings">Settings</string><string name="pref_header_simulation">Simulation</string><string name="pref_header_appearance">Appearance</string><string name="pref_title_machine_type">Enigma Model</string><string-array name="pref_alias_machine_type" translatable="false">
+        <item>I</item>
+        <item>M3</item>
+        <item>M4</item>
+        <item>G31</item>
+        <item>G312</item>
+        <item>G260</item>
+        <item>D</item>
+        <item>K</item>
+        <item>KS</item>
+        <item>KSA</item>
+        <item>R</item>
+        <item>T</item>
+    </string-array><string name="pref_description_numeric_spelling_language">Language, in which numbers are spelled.</string><string name="pref_description_message_formatting">Do you want to split the message up into blocks?</string><string-array name="pref_alias_numeric_spelling_language" translatable="false">
+        <item>de</item>
+        <item>en</item>
+        <item>fr</item>
+        <item>sp</item>
+        <item>it</item>
+        <item>no</item>
+    </string-array><string-array name="pref_list_machine_type">
+        <item>I (Army, Airforce)</item>
+        <item>M3 (Army, Navy)</item>
+        <item>M4 (\"Shark\", Navy)</item>
+        <item>G31/A865 (Defense)</item>
+        <item>G312 (Defense)</item>
+        <item>G260 (Defense)</item>
+        <item>D (Commercial)</item>
+        <item>K</item>
+        <item>Swiss-K</item>
+        <item>Swiss-K (Airforce)</item>
+        <item>R (\"Rocket\", Railway)</item>
+        <item>T (\"Tirpitz\", Japan)</item>
+    </string-array><string name="pref_header_input_preparation">Input Preparation</string><string-array name="pref_list_message_formatting">
+        <item>No division</item>
+        <item>Blocks of 4</item>
+        <item>Blocks of 5</item>
+        <item>Blocks of 6</item>
+    </string-array><string-array name="pref_alias_message_formatting" translatable="false">
+        <item>no</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array></file><file path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="android:Theme.Black">
+        <!-- Customize your theme here. -->
+    </style></file><file path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\values-de\about_dialog_resources.xml" qualifiers="de"><string name="description_text">EnigmAndroid ist die Implementation einer Simulation der Enigma Maschine.
+    Die Enigma Maschine ist eine in den 1920er Jahren entwickelte Verschlüsselungsmaschine,
+    die unter anderem im zweiten Weltkrieg von der deutschen Wehrmacht eingesetzt wurde,
+    um geheime Nachrichten zu verschlüsseln. Es gab mehrere verschiedene Enigmamodelle.
+    Zur Verschlüsselung wird jeder einzelne Buchstabe elektronisch
+    durch eine Reihe von rotierbaren Walzen geleitet, sodass nach jedem Buchstaben ein anderes
+    Verschlüsselungsalphabet genutzt wird (Polyalphabetische Substitution).
+    Die Walzen konnte man aus einem Set von 5 Walzen wählen. Zusätzlich gab es ein Steckbrett, an dem
+    man Buchstaben von Hand vertauschen konnte.
+    </string><string name="title_section_disclaimer">Disclaimer</string><string name="title_section_developer">Entwickler</string><string name="section_disclaimer">THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</string><string name="title_section_how_to_use">Bedienungsanleitung</string><string name="title_action_about">Über</string><string name="title_about_dialog">Über EnigmAndroid</string><string name="section_how_to_use">Um einen Text mit EnigmAndroid zu ver- oder entschlüsseln, wählen Sie zunächst das entsprechende Maschinenmodell aus.
+        Sie finden eine Liste, aus der Sie wählen können in den Einstellungen. Tippen Sie dann den Klar- oder Geheimtext in das Feld \"Hier tippen\".
+        Wählen Sie anschließend je nach gewähltem Modell eine Umkehrwalze, sowie weitere Walzen aus. Legen Sie außerdem die Startpositionen der Walzen fest.
+        Zuletzt können Sie ggf. noch einige Steckerpaare auf dem Steckbrett festlegen, oder die Verkabelung der Umkehrwalze ändern. Tippen Sie dazu den
+        jeweiligen Button an und verbinden Sie die gewünschten Steckerpaare, indem Sie im sich öffnenden Dialog nacheinander jeweils zwei
+        Stecker berühren. Falls sie eine Verbindung trennen möchten, klicken Sie einen der betroffenen Stecker doppelt an.
+        Optional können Sie außerdem auch noch die Ringstellung definieren. Öffnen Sie dazu das Optionsmenü und wählen Sie den Punkt \"Ringstellung\".
+        Haben Sie alle Einstellungen getätigt klicken Sie auf den Button \"Ver-Entschlüsseln\".
+        Um die gewählte Konfiguration der Enigma Maschine per QR-Code zu teilen, wählen Sie den Eintrag \"Teile Konfiguration per QR-Code\" aus dem Optionsmenü.
+        Um eine per QR-Code geteilte Konfiguration zu scannen, wählen Sie stattdessen den Eintrag \"Lese Konfiguration aus QR-Code\".
+        Außerdem können Sie eine Konfiguration aus einem Schlüsselwort generieren, oder wiederherstellen, indem Sie dein Eintrag \"Konfiguration aus Schlüsselwort\"
+        wählen und im erscheinenden Dialog entweder ein beliebiges Wort oder den Inhalt eines QR-Codes (\"EnigmAndroid/…\" eingeben.</string><string name="section_developer">EnigmAndroid wird entwickelt von: \nPaul Schaub</string><string name="button_show_changelog">Changelog</string></file><file path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\values-de\strings.xml" qualifiers="de"><string name="hint_rotor3_position">Position\nWalze 3</string><string name="hint_thin_rotor_position">Position\nWalze 4</string><string name="title_reflector_dialog">Verkabelung Umkehrwalze</string><string name="dialog_abort">Keine Änderungen.</string><string name="action_choose_ring_settings">Ringstellung</string><string name="action_send">Senden</string><string name="action_version">Version</string><string name="error_no_text_to_send">Nachricht ist leer.</string><string name="dialog_negative">Abbrechen</string><string name="dialog_reflector_set">Umkehrwalze verkabelt.</string><string name="dialog_passphrase_set">Konfiguration aus Schlüsselwort %1$s generiert.</string><string name="message_random">Enigma auf zufällige Konfiguration gesetzt.</string><string name="app_name">EnigmAndroid</string><string name="error_no_valid_qr">Fehler: Kein korrekter EnigmAndroid QR-Code!</string><string name="hint_rotor2_position">Position\nWalze 2</string><string name="action_settings">Einstellungen</string><string name="send_to">Senden an…</string><string name="hint_thin_rotor">Walze 4</string><string name="action_reset">Zurücksetzen</string><string name="button_crypt">Ver-/Entschlüsseln</string><string name="action_read_passphrase">Konfiguration aus Schlüsselwort</string><string name="title_ring_setting">Ringstellungen</string><string name="hint_enigma_code">Enigma-Code</string><string name="dialog_positive">OK</string><string name="dialog_ring_settings_success">Setze Ringe auf %1$s.</string><string name="hint_rotor1">Walze 1</string><string name="hint_rotor2">Walze 2</string><string name="message_reset">Enigma zurückgesetzt.</string><string name="action_read_qr">Lese Konfiguration aus QR-Code</string><string name="hint_rotor3">Walze 3</string><string name="dialog_passphrase_was_coded_state">Konfiguration aus Kodierung wiederhergestellt.</string><string name="hint_enigma_type_here">Hier Tippen</string><string name="hint_reflector_position">Position\nUmkehr-\nWalze</string><string name="hint_passphrase">Schlüsselwort eingeben</string><string name="title_plugboard_dialog">Steckbrett-\nVerbindungen</string><string name="dialog_plugboard_set">Steckbrettverbindungen gesetzt.</string><string name="action_random">Zufällige Konfiguration</string><string name="action_send_qr">Teile Konfiguration per QR-Code</string><string name="hint_enigma_reflector_wiring">Verkabelung Umkehrwalze</string><string name="hint_reflector">Umkehr-\nWalze</string><string name="hint_rotor1_position">Position\nWalze 1</string></file><file path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\values-de\strings_activity_settings.xml" qualifiers="de"><string name="title_activity_settings">Einstellungen</string><string name="pref_description_numeric_spelling_language">Sprache in der Zahlen buchstabiert werden sollen.</string><string name="pref_header_input_preparation">Eingabe Vorbereitung</string><string name="pref_header_simulation">Simulation</string><string-array name="pref_list_machine_type">
+        <item>I (Heer, Luftwaffe)</item>
+        <item>M3 (Heer, Marine)</item>
+        <item>M4 (\"Shark\", Marine)</item>
+        <item>G31/A865 (Abwehr)</item>
+        <item>G312 (Abwehr)</item>
+        <item>G260 (Abwehr)</item>
+        <item>D (Kommerziell)</item>
+        <item>K</item>
+        <item>Swiss-K (Schweiz)</item>
+        <item>Swiss-K (Schweiz, Luftwaffe)</item>
+        <item>R (\"Rocket\", Reichsbahn)</item>
+        <item>T (\"Tirpitz\", Japan)</item>
+    </string-array><string name="pref_title_numeric_spelling_language">Zahlenbuchstabiersprache</string><string-array name="pref_list_numeric_spelling_language">
+        <item>Deutsch</item>
+        <item>Englisch</item>
+        <item>Französisch</item>
+        <item>Spanisch</item>
+        <item>Italienisch</item>
+        <item>Keine Ersetzung</item>
+    </string-array><string name="pref_description_message_formatting">Soll die Nachricht in Blöcke unterteilt werden?</string><string name="pref_header_appearance">Erscheinungsbild</string><string-array name="pref_list_message_formatting">
+        <item>Keine Unterteilung</item>
+        <item>Viererblöcke</item>
+        <item>Fünferblöcke</item>
+        <item>Sechserblöcke</item>
+    </string-array><string name="pref_description_machine_type">Welches Modell soll simuliert werden?</string><string name="pref_title_message_formatting">Nachrichtenformatierung</string><string name="pref_title_machine_type">Enigma Modell</string></file><file path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppTheme" parent="android:Theme.Holo">
+        <!-- Customize your theme here. -->
+    </style></file><file path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp"><dimen name="activity_horizontal_margin">64dp</dimen></file><file name="pref_page" path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\main\res\xml\pref_page.xml" qualifiers="" type="xml"/></source><source path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\build\generated\res\rs\debug"/><source path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\src\debug\res"/></dataSet><mergedItems/></merger>

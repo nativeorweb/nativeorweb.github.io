@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">anDOF</string>
+    <string name="focal">Brennweite</string>
+    <string name="aperture">Blende</string>
+    <string name="distance">Entfernung</string>
+    <string name="hyperfocal">hyperfokal</string>
+    <string name="infinity">unendlich</string>
+    <string name="currentlens">Aktuelles Objektiv</string>
+    <string name="closeup">Nahlinsen-Filter verwenden?</string>
+    <string name="closeup_on">Nahlinsen-Filter aktiviert</string>
+    <string name="closeup_off">Nahlinsen-Filter deaktiviert</string>
+    <string name="mycamera">Meine Kamera</string>
+    <string name="mylenses">Meine Objektive</string>
+    <string name="resetsettings">Einstellungen zurücksetzen</string>
+    <string name="help">Hilfe</string>
+    <string name="url">http://www.quovadit.org/apps/andof#help</string>    
+    <string name="customCoc">Keine Kamera - Coc: </string>    
+	<string name="noLens">aktuell kein Objektiv eingestellt</string>    
+	<string name="camera_heading">Kamera-Einstellungen</string>
+	<string name="camera_spinner">Wähle deine Kamera:</string>
+	<string name="camera_custom">Manueller CoC-Wert:</string>
+	<string name="save">Speichern</string>
+	<string name="coc_hint">Zerstreuungskreis (zB 0.03)</string>
+</resources>

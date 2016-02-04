@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">anDOF</string>
+    <string name="focal">focale</string>
+    <string name="aperture">ouverture</string>
+    <string name="distance">distance</string>
+    <string name="hyperfocal">hyperfocale</string>
+    <string name="infinity">infinité</string>
+    <string name="currentlens">objectif actuel</string>
+    <string name="closeup">utiliser bonnette?</string>
+    <string name="closeup_on">bonnette activé</string>
+    <string name="closeup_off">bonnette inactivé</string>
+    <string name="mycamera">Ma caméra</string>
+    <string name="mylenses">Mes objectifs</string>
+    <string name="resetsettings">supprimer paramètres</string>
+    <string name="help">aide</string>
+    <string name="url">http://www.quovadit.org/apps/andof-en#help</string>    
+    <string name="customCoc">coutume CdC: </string>    
+	<string name="noLens">Il n\'y a pas un objectif</string>    
+	<string name="camera_heading">Paramètres de la caméra</string>
+	<string name="camera_spinner">Choisis ta caméra:</string>
+	<string name="camera_custom">coutume CdC:</string>
+	<string name="save">Enregistrer</string>
+	<string name="coc_hint">Cercle de confusion (par ex. 0.03)</string>
+</resources>

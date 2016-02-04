@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-510146d82843ed79630c97da4dc19eee5d70401d.jar" />
+    </item>
+    <item
+        jar="C:\Users\welli\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-2193a7af73f3d1bef1f086396ade0634ef3bc5fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\welli\Documents\Mestrado\F-droid\EnigmAndroid-master\app\build\intermediates\pre-dexed\debug\classes-a887ff806f36c1108cfd7fad894b8e69d72afec7.jar" />
+    </item>
+
+</items>

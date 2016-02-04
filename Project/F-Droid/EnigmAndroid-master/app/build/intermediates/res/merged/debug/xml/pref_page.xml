@@ -1,0 +1,34 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/pref_header_simulation">
+        <ListPreference
+            android:key="prefMachineType"
+            android:title="@string/pref_title_machine_type"
+            android:summary="@string/pref_description_machine_type"
+            android:entries="@array/pref_list_machine_type"
+            android:entryValues="@array/pref_alias_machine_type"
+            android:defaultValue="Enigma I"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/pref_header_input_preparation">
+        <ListPreference
+            android:key="prefNumericLanguage"
+            android:title="@string/pref_title_numeric_spelling_language"
+            android:summary="@string/pref_description_numeric_spelling_language"
+            android:entries="@array/pref_list_numeric_spelling_language"
+            android:entryValues="@array/pref_alias_numeric_spelling_language"
+            android:defaultValue="de" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/pref_header_appearance">
+        <ListPreference
+            android:key="prefMessageFormatting"
+            android:title="@string/pref_title_message_formatting"
+            android:summary="@string/pref_description_message_formatting"
+            android:entries="@array/pref_list_message_formatting"
+            android:entryValues="@array/pref_alias_message_formatting"
+            android:defaultValue="5"/>
+    </PreferenceCategory>
+
+</PreferenceScreen><!-- From: file:/C:/Users/welli/Documents/Mestrado/F-droid/EnigmAndroid-master/app/src/main/res/xml/pref_page.xml -->

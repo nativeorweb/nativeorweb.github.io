@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EnigmAndroid</string>
+    <string name="action_version">Version</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_random">Random configuration</string>
+    <string name="action_read_qr">Read configuration from QR-Code</string>
+    <string name="action_send_qr">Share configuration via QR-Code</string>
+    <string name="action_read_passphrase">Create configuration from passphrase</string>
+    <string name="action_choose_ring_settings">Ring-Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_send">Send</string>
+    <string name="send_to">Send to…</string>
+    <string name="hint_enigma_type_here">Type here</string>
+    <string name="hint_enigma_code">EnigmaCode</string>
+    <string name="hint_rotor1">Rotor 1</string>
+    <string name="hint_rotor2">Rotor 2</string>
+    <string name="hint_rotor3">Rotor 3</string>
+    <string name="hint_thin_rotor">Rotor 4</string>
+    <string name="hint_reflector">Reflector</string>
+    <string name="hint_rotor1_position">Position\nRotor 1</string>
+    <string name="hint_rotor2_position">Position\nRotor 2</string>
+    <string name="hint_rotor3_position">Position\nRotor 3</string>
+    <string name="hint_reflector_position">Position\nReflector</string>
+    <string name="hint_thin_rotor_position">Position\nRotor 4</string>
+    <string name="hint_enigma_reflector_wiring">Wiring Reflector</string>
+    <string name="hint_passphrase">Enter passphrase</string>
+    <string name="button_crypt">En-/Decrypt!</string>
+    <string name="error_no_text_to_send">Can\'t send empty text.</string>
+    <string name="error_no_valid_qr">Error: Not a valid EnigmAndroid QR-Code!</string>
+    <string name="title_ring_setting">Ring-Settings</string>
+    <string name="title_plugboard_dialog">Plugboard Settings</string>
+    <string name="title_reflector_dialog">Reflector Wiring</string>
+    <string name="dialog_positive">OK</string>
+    <string name="dialog_negative">Cancel</string>
+    <string name="dialog_ring_settings_success">Set Ring-Settings to %1$s.</string>
+    <string name="dialog_reflector_set">Rewired Reflector.</string>
+    <string name="dialog_plugboard_set">Set Plugboard configuration.</string>
+    <string name="dialog_passphrase_set">Generate configuration from passphrase %1$s.</string>
+    <string name="dialog_passphrase_was_coded_state">Restored configuration from coded state.</string>
+    <string name="dialog_abort">No changes.</string>
+    <string name="message_reset">Enigma reset.</string>
+    <string name="message_random">Enigma set to random configuration.</string>
+
+    <string name="button_plug_title">%1$s:%2$s</string>
+
+    <string-array translatable="false" name="rotors_1_3">
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+    </string-array>
+    <string-array translatable="false" name="rotors_1_5">
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+        <item>IV</item>
+        <item>V</item>
+    </string-array>
+    <string-array translatable="false" name="rotors_1_8">
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+        <item>IV</item>
+        <item>V</item>
+        <item>VI</item>
+        <item>VII</item>
+        <item>VIII</item>
+    </string-array>
+    <string-array translatable="false" name="reflectors_a_c">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+    <string-array translatable="false" name="reflectors_b_c">
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+    <string-array translatable="false" name="rotors_beta_gamma">
+        <item>\u03B2</item>
+        <item>\u03B3</item>
+    </string-array>
+
+</resources>

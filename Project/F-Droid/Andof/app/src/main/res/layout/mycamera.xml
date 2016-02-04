@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp" >
+
+    <RadioButton
+        android:id="@+id/radio_camera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:checked="true"
+        android:onClick="onRadioButtonClicked"
+        android:text="@string/camera_spinner" />
+
+    <Spinner
+        android:id="@+id/spinner_cameramodel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RadioButton
+        android:id="@+id/radio_customcoc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:onClick="onRadioButtonClicked"
+        android:text="@string/camera_custom" />
+
+    <EditText
+        android:id="@+id/text_customcoc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:enabled="false"
+        android:hint="@string/coc_hint"
+        android:inputType="numberDecimal" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:onClick="saveCamera"
+        android:text="@string/save" />
+
+</RadioGroup>

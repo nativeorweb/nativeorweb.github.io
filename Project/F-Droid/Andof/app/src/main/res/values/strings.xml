@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">anDOF</string>
+    <string name="dof">DOF</string>
+    <string name="focal">Focal</string>
+    <string name="aperture">Aperture</string>
+    <string name="distance">Distance</string>
+    <string name="hyperfocal">hyperfocal</string>
+    <string name="infinity">Infinity</string>
+    <string name="currentlens">Current Lens</string>
+    <string name="closeup">Use Closeup Lens Filter?</string>
+    <string name="closeup_on">Closeup Filter ON</string>
+    <string name="closeup_off">Closeup Filter OFF</string>
+    <string name="mycamera">my camera</string>
+    <string name="mylenses">my lenses</string>
+    <string name="resetsettings">Reset settings</string>
+    <string name="help">Help</string>
+    <string name="url">http://www.quovadit.org/apps/andof-en#help</string>    
+    <string name="customCoc">No Camera -> Coc: </string>    
+    <string name="noLens">Currently there\'s no lens</string>    
+	<string name="camera_heading">my camera</string>
+	<string name="camera_spinner">Choose your camera:</string>
+	<string name="camera_custom">Set custom CoC:</string>
+	<string name="save">Save</string>
+	<string name="coc_hint">Circle of Confusion (e.g. 0.03)</string>
+</resources>

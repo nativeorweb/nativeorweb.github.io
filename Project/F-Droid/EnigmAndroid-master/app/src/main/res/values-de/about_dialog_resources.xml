@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="button_show_changelog">Changelog</string>
+
+    <string name="title_action_about">Über</string>
+    <string name="title_about_dialog">Über EnigmAndroid</string>
+    <string name="description_text">EnigmAndroid ist die Implementation einer Simulation der Enigma Maschine.
+    Die Enigma Maschine ist eine in den 1920er Jahren entwickelte Verschlüsselungsmaschine,
+    die unter anderem im zweiten Weltkrieg von der deutschen Wehrmacht eingesetzt wurde,
+    um geheime Nachrichten zu verschlüsseln. Es gab mehrere verschiedene Enigmamodelle.
+    Zur Verschlüsselung wird jeder einzelne Buchstabe elektronisch
+    durch eine Reihe von rotierbaren Walzen geleitet, sodass nach jedem Buchstaben ein anderes
+    Verschlüsselungsalphabet genutzt wird (Polyalphabetische Substitution).
+    Die Walzen konnte man aus einem Set von 5 Walzen wählen. Zusätzlich gab es ein Steckbrett, an dem
+    man Buchstaben von Hand vertauschen konnte.
+    </string>
+
+    <string name="title_section_how_to_use">Bedienungsanleitung</string>
+    <string name="section_how_to_use">Um einen Text mit EnigmAndroid zu ver- oder entschlüsseln, wählen Sie zunächst das entsprechende Maschinenmodell aus.
+        Sie finden eine Liste, aus der Sie wählen können in den Einstellungen. Tippen Sie dann den Klar- oder Geheimtext in das Feld \"Hier tippen\".
+        Wählen Sie anschließend je nach gewähltem Modell eine Umkehrwalze, sowie weitere Walzen aus. Legen Sie außerdem die Startpositionen der Walzen fest.
+        Zuletzt können Sie ggf. noch einige Steckerpaare auf dem Steckbrett festlegen, oder die Verkabelung der Umkehrwalze ändern. Tippen Sie dazu den
+        jeweiligen Button an und verbinden Sie die gewünschten Steckerpaare, indem Sie im sich öffnenden Dialog nacheinander jeweils zwei
+        Stecker berühren. Falls sie eine Verbindung trennen möchten, klicken Sie einen der betroffenen Stecker doppelt an.
+        Optional können Sie außerdem auch noch die Ringstellung definieren. Öffnen Sie dazu das Optionsmenü und wählen Sie den Punkt \"Ringstellung\".
+        Haben Sie alle Einstellungen getätigt klicken Sie auf den Button \"Ver-Entschlüsseln\".
+        Um die gewählte Konfiguration der Enigma Maschine per QR-Code zu teilen, wählen Sie den Eintrag \"Teile Konfiguration per QR-Code\" aus dem Optionsmenü.
+        Um eine per QR-Code geteilte Konfiguration zu scannen, wählen Sie stattdessen den Eintrag \"Lese Konfiguration aus QR-Code\".
+        Außerdem können Sie eine Konfiguration aus einem Schlüsselwort generieren, oder wiederherstellen, indem Sie dein Eintrag \"Konfiguration aus Schlüsselwort\"
+        wählen und im erscheinenden Dialog entweder ein beliebiges Wort oder den Inhalt eines QR-Codes (\"EnigmAndroid/…\" eingeben.</string>
+
+    <string name="title_section_developer">Entwickler</string>
+    <string name="section_developer">EnigmAndroid wird entwickelt von: \nPaul Schaub</string>
+
+    <string name="title_section_disclaimer">Disclaimer</string>
+    <string name="section_disclaimer">THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</string>
+</resources>
